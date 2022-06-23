@@ -2,4 +2,10 @@ Esta es la historia de Maikol Moreno.
 
 Maikol Moreno tiene 19 a;os y nacio en Venezuela.
 
-Hoy hablaremos de su historia.
+El siguiente dia nos enfocaremos en su vida laboral y en su camino de aprendizaje.
+
+Gracias a Platzi, puedo escribir codigos y estoy aprendiendo Git
+
+Repasando y probando comandos de Git con el curso de Platzi
+
+Espero en 6 meses tener la capacidad de entrar al mercado laboral.
