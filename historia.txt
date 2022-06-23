@@ -9,3 +9,5 @@ Gracias a Platzi, puedo escribir codigos y estoy aprendiendo Git
 Repasando y probando comandos de Git con el curso de Platzi
 
 Espero en 6 meses tener la capacidad de entrar al mercado laboral.
+
+Nota importante que contiene un mensaje importante.
